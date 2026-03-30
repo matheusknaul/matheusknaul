@@ -8,13 +8,13 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Software Engineer working for a leading based health care company.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **C#**, **.NET Core**, **Oracle DB**,  **PostgreSQL** and **Golang**
+- 💻 I use daily: **C#**, **.NET Core**, **Oracle DB**,  **PostgreSQL** and **Blazor**
 - 📖 I am currently reading **Fundamentals of Software Architecture** by Mark Richards & Neal Ford
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
       <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,blazor,git,docker,aws,azure,postgres,rabbitmq" />
+            <img src="https://skillicons.dev/icons?i=cs,dotnet,git,docker,aws,azure,postgres,rabbitmq" />
       </a>
 </p>
 
